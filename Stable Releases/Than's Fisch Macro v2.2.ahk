@@ -6,7 +6,7 @@ CoordMode, ToolTip, Client
 ; ==============================================================
 ; SETTINGS
 ; COMMON SETTINGS
-ControlRod := 0.05
+ControlRod := 0.15
 navigationKey := "\"
 shaketimeout := 50
 alternatecolors := False
